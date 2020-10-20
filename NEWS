@@ -1,0 +1,15 @@
+## 16-04-2007
+ - Fixed some warnings.
+ - Added support to run the engine without the LBA2 cd. (will grab the musics if we had it in the HDD)
+ - Added music fade.
+ - Added feature to skip intro screens with the Escape key (ESC).
+ - Added a new delay function, since the SDL_Delay fucntion freezes the game and use lot of CPU.
+ - Added functions to read LBA2 config file (lba2.cfg)
+ - Added menu background and LBA's Theme music.
+
+## 19-05-2006
+ - First release on CVS.
+ - Main SDL configurations done.
+ - Routines to handle High Quility Ressource (HQR) files.
+ - First intro images done.
+ - Also working with diferent versions of the game.
